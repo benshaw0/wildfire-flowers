@@ -1,0 +1,14 @@
+data/
+
+.ipynb_checkpoints
+
+.env
+.venv
+
+figures/
+*.png
+*.jpg
+*.jpeg
+*.tif
+*.tiff
+*.pdf
